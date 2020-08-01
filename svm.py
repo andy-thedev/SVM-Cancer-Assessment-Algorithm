@@ -28,7 +28,7 @@ y = cancer.target
 
 x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x, y, test_size=0.2)
 
-print (x_train, y_train)
+print(x_train, y_train)
 classes = ["malignant", "benign"]
 
 # C is the # of outliers that may be determined in the soft margin
