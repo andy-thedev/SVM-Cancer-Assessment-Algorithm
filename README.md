@@ -16,7 +16,7 @@ Design description:
 
 4) Makes a prediction (malignant or benign) with the testing data
 
-Libraries utilized: Tensorflow, keras, numpy
+Libraries utilized: sklearn
 
 Dataset utilized: innate sklearn dataset
 
