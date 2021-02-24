@@ -6,13 +6,13 @@ A repository containing a breast cancer assessment algorithm utilizing SVM.
 
 The model takes patients' breast cancer characteristics, such as mean radius, mean texture, mean perimeter, mean area, etc. to determine if the cancer is malignant or benign.
 
-Language: Python
+Language: Python  
 Libraries: sklearn  
 Data: innate sklearn dataset
 
 ## /
 **svm.py:**  
-The main algorithm (See section: "Design Description")
+The main algorithm (See section: "Design description")
 
 ## Design description
 
