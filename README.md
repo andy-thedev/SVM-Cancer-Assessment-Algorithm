@@ -1,4 +1,4 @@
-# SVM Cancer Assessment Algorithm
+# Cancer Assessment Algorithm
 
 A repository containing a breast cancer assessment algorithm utilizing SVM. 
 
