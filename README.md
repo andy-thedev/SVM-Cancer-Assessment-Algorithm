@@ -12,7 +12,7 @@ Data: innate sklearn dataset
 
 ## /
 **svm.py:**  
-The main algorithm (See Section: "Design Description")
+The main algorithm (See section: "Design Description")
 
 ## Design description
 
