@@ -1,5 +1,7 @@
 # Cancer Assessment Algorithm
 
+## Credit: https://github.com/techwithtim
+
 A repository containing a breast cancer assessment algorithm utilizing SVM. 
 
 ## Intro
